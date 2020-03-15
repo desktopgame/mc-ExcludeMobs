@@ -8,4 +8,4 @@ mc-ExcludeMobs is mod for minecraft.
 this folder into the `mods` folder, and launch your minecraft.  
 then, "exclude_mobs.txt" is should be created.  
 it file is already written all entity list.  
-it is no longer spawn if remove # from entity name
+it to not spawn if remove # from entity name and relaunch a minecraft.
