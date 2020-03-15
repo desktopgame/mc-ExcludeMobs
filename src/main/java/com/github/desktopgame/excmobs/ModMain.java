@@ -41,6 +41,7 @@ public class ModMain {
         file.createNewFile();
         BufferedWriter out = new BufferedWriter(new FileWriter(file));
         out.write("# remove # from line, if do not want spawn a specific mob");
+        out.newLine();
         for(Object entityClass : EntityList.classToStringMapping.keySet()) {
           Class<?> c = (Class<?>)entityClass;
           out.write("#");
