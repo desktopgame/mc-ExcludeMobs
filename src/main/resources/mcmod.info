@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "com.github.desktopgame.excmobs",
+  "name": "ExcludeMobs",
+  "description": "this mod is can to not spawn specific mobs.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/desktopgame/mc-ExcludeMobs",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
+  "authorList": ["desktopgame"],
   "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
